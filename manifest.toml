@@ -5,7 +5,7 @@ name = "Akkoma"
 description.en = "Federated social networking server built on ActivityPub open protocol"
 description.fr = "Serveur de réseautage social fédéré basé sur le protocole ouvert ActivityPub"
 
-version = "3.15.2~ynh3"
+version = "2025.03+in-reality-its-3.15.2~ynh3"
 
 maintainers = ["Lapineige"]
 
