@@ -87,7 +87,7 @@ ram.runtime = "300M" # FIXME: replace with an actual **estimate** minimum ram re
     main.url = "/"
 
     [resources.ports]
-    main.default = 8095 # FIXME
+    main.default = 8096 # FIXME
 
     [resources.apt]
     packages = "curl, unzip, libncurses5, postgresql, postgresql-contrib, imagemagick, ffmpeg, exiftool, libimage-exiftool-perl"
