@@ -6,6 +6,7 @@ After=network.target postgresql.service nginx.service
 ExecReload=/bin/kill $MAINPID
 KillMode=process
 Restart=on-failure
+TimeoutSec=1800
 
 ; Name of the user that runs the Akkoma service.
 User=__APP__
